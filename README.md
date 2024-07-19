@@ -1,4 +1,4 @@
-# Global-Mart-Sales-Analysis
+# Retail-Order-Analysis
 
 ### Project Statement: Retail Order Analysis of Global Mart Sales Data
 
